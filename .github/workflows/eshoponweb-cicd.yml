@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: b51920cd-b4e7-44e9-9f8b-59429eebfa0e
-  WEBAPP-NAME: eshoponweb-webapp-Clodocn
+  WEBAPP-NAME: eshoponweb-webapp-Clodocnn
 
 jobs:
   #Build, test and publish .net web project in repository
